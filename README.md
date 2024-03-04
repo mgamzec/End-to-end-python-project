@@ -1,3 +1,4 @@
+![image](https://github.com/mgamzec/End-to-end-python-project/assets/62151645/c294b1b3-025a-496b-8c2f-0270845921cf)
 
 # Zoe Depth Estimation
 
